@@ -1,0 +1,395 @@
+2023-02-26T06:34:31+00:00 CRITICAL Uncaught Error: Object of class WP_Post could not be converted to string in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/single.php:109
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/single.php(109): array_unique()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#3 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#4 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/single.php on line 109
+
+2023-02-26T08:35:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_image() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php:66
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php on line 66
+
+2023-02-26T08:35:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_image() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php:72
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php on line 72
+
+2023-02-26T08:48:47+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_image() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/category.php:87
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(785): require()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(718): load_template()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/general-template.php(204): locate_template()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/category.php(5): get_template_part()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#6 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#7 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/category.php on line 87
+
+2023-02-26T08:49:31+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_image() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/category.php:87
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(785): require()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(718): load_template()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/general-template.php(204): locate_template()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/category.php(5): get_template_part()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#6 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#7 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/category.php on line 87
+
+2023-02-26T09:27:37+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::get_update_url() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php:66
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php on line 66
+
+2023-02-26T09:27:48+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::get_quantity_url() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php:66
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php on line 66
+
+2023-02-26T09:36:02+00:00 CRITICAL Uncaught Error: Call to a member function set_quantity() on array in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php:81
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php on line 81
+
+2023-02-26T09:52:10+00:00 CRITICAL Uncaught Error: Call to a member function set_quantity() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php:8
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php(17): update_cart_item_qty()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#3 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#4 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php on line 8
+
+2023-02-26T09:52:50+00:00 CRITICAL Uncaught Error: Call to a member function set_quantity() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php:8
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php(17): update_cart_item_qty()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#3 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#4 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php on line 8
+
+2023-02-26T09:52:59+00:00 CRITICAL Uncaught Error: Call to a member function set_quantity() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php:8
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php(16): update_cart_item_qty()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#3 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#4 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php on line 8
+
+2023-02-26T09:53:14+00:00 CRITICAL Uncaught Error: Call to a member function set_quantity() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php:8
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php(16): update_cart_item_qty()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#3 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#4 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php on line 8
+
+2023-02-26T10:00:32+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:00:39+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:01:49+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:02:11+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:05:37+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:05:56+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:06:57+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:07:18+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:07:41+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:08:53+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:08:55+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:16:20+00:00 CRITICAL Uncaught Error: Call to undefined function url_decode() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php:91
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php on line 91
+
+2023-02-26T10:19:57+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:20:52+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:21:13+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:22:13+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:22:35+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:24:15+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:24:22+00:00 CRITICAL Uncaught Error: Call to undefined function redirect() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php:16
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php on line 16
+
+2023-02-26T10:25:05+00:00 CRITICAL Uncaught Error: Call to undefined function redirect() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php:8
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php(16): update_cart_item_qty()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#3 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#4 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/cart.php on line 8
+
+2023-02-26T10:31:39+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:32:37+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:32:46+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:32:53+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:32:55+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:32:56+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:32:58+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:33:00+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:33:01+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:33:04+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:33:54+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2023-02-26T10:35:13+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1360): WC_Cart->calculate_totals()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphu in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+

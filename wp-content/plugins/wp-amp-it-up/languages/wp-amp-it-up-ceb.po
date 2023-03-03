@@ -1,0 +1,32 @@
+# Translation of Plugins - AMP it up! - Stable (latest release) in Cebuano
+# This file is distributed under the same license as the Plugins - AMP it up! - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ceb_PH\n"
+"Project-Id-Version: Plugins - AMP it up! - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://www.amp-cloud.de"
+msgstr "https://www.amp-cloud.de"
+
+#. Author of the plugin/theme
+msgid "amp-cloud.de | Björn Staven"
+msgstr "amp-cloud.de | Björn Staven"
+
+#. Description of the plugin/theme
+msgid "AMP for WordPress automatically add Accelerated Mobile Pages (Google AMP Project) functionality on your Site! Just install, activate it and it´s done! This official AMP WordPress plugin from amp-cloud.de enable automated AMP support to your website for free! It creates without any prior knowledge and completely free Google-compliant AMPHTML versions of your webpages."
+msgstr "RCPV alang sa Sun.Star awtomatikong add Accelerated Mobile panid (Google RCPV Project) kagamitan, katuyoan sa imong Site! instalar lang, pagpaaktibo niini ug kini mao-gibuhat! Kini nga opisyal nga RCPV sa Sun.Star plugin gikan amp-cloud.de makahimo automated HLGN suporta sa imong website alang sa free! Kini nagmugna sa walay bisan unsa nga sa wala pa kahibalo ug bug-os nga kagawasan sa Google-compliant AMPHTML bersyon sa imong mga webpages."
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.amp-cloud.de/google-amp-plugins/wordpress/amp-fuer-wordpress.php"
+msgstr "https://www.amp-cloud.de/google-amp-plugins/wordpress/amp-fuer-wordpress.php"
+
+#. Plugin Name of the plugin/theme
+msgid AMP it up!"
+msgstr AMP it up!"

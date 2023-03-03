@@ -1,0 +1,33 @@
+.header-logo-site{
+    object-fit: contain;
+    width: 100rem;
+    height: 4rem;
+}
+
+.owl-theme .owl-nav [class*=owl-]{
+    margin: 0rem 0.5rem;
+}
+
+.footer .footer-main .content a{
+    display: inherit!important;
+}
+
+#breadcrumb{
+    margin: 1rem 0rem !important;
+}
+
+#breadcrumb > span > i{
+    padding: 0rem 0.25rem !important;
+}
+
+.woocommerce-product-attributes-item__value{
+    padding-left: 1rem;
+}
+
+html, body {
+    margin: 0!important;
+    height: 100%!important;
+    
+width: fit-content!important;
+block-size: fit-content!important;
+}
