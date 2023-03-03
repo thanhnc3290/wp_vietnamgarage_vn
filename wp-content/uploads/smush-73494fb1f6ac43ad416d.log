@@ -1,0 +1,148 @@
+[2023-03-03 07:39:24 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:39:26 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:39:27 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:39:29 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:44:49 : INFO] - 
+ 
+[2023-03-03 07:44:49 : INFO] - Header for logs at time:  Fri, 03 Mar 2023 07:44:49 +0000 on https://dev.vietnamgarage.vn 
+[2023-03-03 07:44:49 : INFO] - WP: 6.1.1 
+[2023-03-03 07:44:49 : INFO] - PHP: 7.4.32 (litespeed, Linux vmi1022598.contaboserver.net 5.4.0-105-generic #119-Ubuntu SMP Mon Mar 7 18:49:24 UTC 2022 x86_64) 
+[2023-03-03 07:44:49 : INFO] - MySQL: 5.5.5 
+[2023-03-03 07:44:49 : INFO] - WPLANG: vi 
+[2023-03-03 07:44:49 : INFO] - Server: LiteSpeed 
+[2023-03-03 07:44:49 : INFO] - Outbound connections: N 
+[2023-03-03 07:44:49 : INFO] - safe_mode: 0 
+[2023-03-03 07:44:49 : INFO] - max_execution_time: 30 
+[2023-03-03 07:44:49 : INFO] - memory_limit: 8000M (used: 18.7M | 4M) 
+[2023-03-03 07:44:49 : INFO] - multisite: N 
+[2023-03-03 07:44:49 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2023-03-03 07:44:49 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2023-03-03 07:44:49 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-03-03 07:44:49 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-03-03 07:44:49 : INFO] - Processing task with ID : 95, and type 'smush' 
+[2023-03-03 07:44:49 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:49 : INFO] - 75 
+[2023-03-03 07:44:51 : INFO] - Backing up the original image - 2023/03/@Fd2X@HoSi292-updraft-pre-smush-original.jpg 
+[2023-03-03 07:44:51 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:51 : INFO] - 75 
+[2023-03-03 07:44:51 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:51 : INFO] - 75 
+[2023-03-03 07:44:52 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:52 : INFO] - 75 
+[2023-03-03 07:44:54 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:54 : INFO] - 75 
+[2023-03-03 07:44:54 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:54 : INFO] - 75 
+[2023-03-03 07:44:55 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:55 : INFO] - 75 
+[2023-03-03 07:44:56 : INFO] - Re_Smush_It_Task with attachment ID : 162, autocreated on : March 03, 2023 07:39:24 
+[2023-03-03 07:44:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:56 : INFO] - 75 
+[2023-03-03 07:44:56 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/@Fd2X@HoSi292.jpg.The file was compressed from 96.93 KB to 83.53 KB saving 13.83 percent using WP-Optimize 
+[2023-03-03 07:44:56 : INFO] - Completed processing task with ID : 95, and type 'smush' 
+[2023-03-03 07:44:56 : INFO] - Processing task with ID : 96, and type 'smush' 
+[2023-03-03 07:44:56 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:44:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:56 : INFO] - 75 
+[2023-03-03 07:44:58 : INFO] - Backing up the original image - 2023/03/@Fd2X@HoSi294-updraft-pre-smush-original.jpg 
+[2023-03-03 07:44:58 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:44:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:58 : INFO] - 75 
+[2023-03-03 07:44:59 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:44:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:59 : INFO] - 75 
+[2023-03-03 07:44:59 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:44:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:44:59 : INFO] - 75 
+[2023-03-03 07:45:00 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:45:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:00 : INFO] - 75 
+[2023-03-03 07:45:01 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:45:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:01 : INFO] - 75 
+[2023-03-03 07:45:07 : INFO] - Task with ID 96 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2023-03-03 07:45:07 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/63df5ecaf73f4acbe50845075abe110e\/_src_%40Fd2X%40HoSi294-600x670.jpg","dest":"http:\/\/par3.static.resmush.it\/63df5ecaf73f4acbe50845075abe110e\/%40Fd2X%40HoSi294-600x670.jpg","src_size":64227,"dest_size":55638,"percent":13,"output":"json","expires":"Fri, 03 Mar 2023 08:50:02 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2023-03-03 07:45:07 : INFO] - Re_Smush_It_Task with attachment ID : 163, autocreated on : March 03, 2023 07:39:26 
+[2023-03-03 07:45:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:07 : INFO] - 75 
+[2023-03-03 07:45:08 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/@Fd2X@HoSi294.jpg.The file was compressed from 83.33 KB to 70.27 KB saving 15.68 percent using WP-Optimize 
+[2023-03-03 07:45:08 : INFO] - Completed processing task with ID : 96, and type 'smush' 
+[2023-03-03 07:45:08 : INFO] - Processing task with ID : 97, and type 'smush' 
+[2023-03-03 07:45:08 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:45:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:08 : INFO] - 75 
+[2023-03-03 07:45:09 : INFO] - Backing up the original image - 2023/03/@Fd2X@HoSi295-updraft-pre-smush-original.jpg 
+[2023-03-03 07:45:09 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:45:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:09 : INFO] - 75 
+[2023-03-03 07:45:10 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:45:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:10 : INFO] - 75 
+[2023-03-03 07:45:11 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:45:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:11 : INFO] - 75 
+[2023-03-03 07:45:11 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:45:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:11 : INFO] - 75 
+[2023-03-03 07:45:12 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:45:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:12 : INFO] - 75 
+[2023-03-03 07:45:13 : INFO] - Re_Smush_It_Task with attachment ID : 164, autocreated on : March 03, 2023 07:39:27 
+[2023-03-03 07:45:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:13 : INFO] - 75 
+[2023-03-03 07:45:14 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/@Fd2X@HoSi295.jpg.The file was compressed from 55.94 KB to 48.49 KB saving 13.32 percent using WP-Optimize 
+[2023-03-03 07:45:14 : INFO] - Completed processing task with ID : 97, and type 'smush' 
+[2023-03-03 07:45:14 : INFO] - Processing task with ID : 98, and type 'smush' 
+[2023-03-03 07:45:14 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:14 : INFO] - 75 
+[2023-03-03 07:45:16 : INFO] - Backing up the original image - 2023/03/@Fd2X@HoSi293-updraft-pre-smush-original.jpg 
+[2023-03-03 07:45:16 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:16 : INFO] - 75 
+[2023-03-03 07:45:16 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:16 : INFO] - 75 
+[2023-03-03 07:45:17 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:17 : INFO] - 75 
+[2023-03-03 07:45:18 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:18 : INFO] - 75 
+[2023-03-03 07:45:19 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:19 : INFO] - 75 
+[2023-03-03 07:45:20 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:20 : INFO] - 75 
+[2023-03-03 07:45:21 : INFO] - Re_Smush_It_Task with attachment ID : 165, autocreated on : March 03, 2023 07:39:29 
+[2023-03-03 07:45:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-03-03 07:45:21 : INFO] - 75 
+[2023-03-03 07:45:22 : INFO] - Successfully optimized the image - /usr/local/lsws/test.ffilm.online/html/public/wp-content/uploads/2023/03/@Fd2X@HoSi293.jpg.The file was compressed from 117.07 KB to 102.60 KB saving 12.36 percent using WP-Optimize 
+[2023-03-03 07:45:22 : INFO] - Completed processing task with ID : 98, and type 'smush' 
+[2023-03-03 07:45:22 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-03-03 07:45:22 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2023-03-03 07:45:22 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-03-03 07:45:22 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2023-03-03 07:54:52 : INFO] - 
+ 
+[2023-03-03 07:54:52 : INFO] - Header for logs at time:  Fri, 03 Mar 2023 07:54:52 +0000 on https://dev.vietnamgarage.vn 
+[2023-03-03 07:54:52 : INFO] - WP: 6.1.1 
+[2023-03-03 07:54:52 : INFO] - PHP: 7.4.32 (litespeed, Linux vmi1022598.contaboserver.net 5.4.0-105-generic #119-Ubuntu SMP Mon Mar 7 18:49:24 UTC 2022 x86_64) 
+[2023-03-03 07:54:52 : INFO] - MySQL: 5.5.5 
+[2023-03-03 07:54:52 : INFO] - WPLANG: vi 
+[2023-03-03 07:54:52 : INFO] - Server: LiteSpeed 
+[2023-03-03 07:54:52 : INFO] - Outbound connections: N 
+[2023-03-03 07:54:52 : INFO] - safe_mode: 0 
+[2023-03-03 07:54:52 : INFO] - max_execution_time: 30 
+[2023-03-03 07:54:52 : INFO] - memory_limit: 8000M (used: 18.7M | 2M) 
+[2023-03-03 07:54:52 : INFO] - multisite: N 
+[2023-03-03 07:54:52 : INFO] - openssl: OpenSSL 1.1.1f  31 Mar 2020 
+[2023-03-03 07:54:52 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

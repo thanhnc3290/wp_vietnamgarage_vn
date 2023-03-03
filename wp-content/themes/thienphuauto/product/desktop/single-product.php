@@ -1,0 +1,1 @@
+product/desktop/single-product.php

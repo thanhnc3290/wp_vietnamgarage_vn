@@ -1,0 +1,721 @@
+02/25/23 14:51:07.839 [162.158.179.98:53090 1 42y] 💓 ------GET HTTP/1.1 (HTTPS)  /wp-admin/admin.php
+02/25/23 14:51:07.839 [162.158.179.98:53090 1 42y] Query String: page=litespeed
+02/25/23 14:51:07.839 [162.158.179.98:53090 1 42y] HTTP_REFERER: https://test.ffilm.online/wp-admin/admin.php?page=litespeed-toolbox&LSCWP_CTRL=PURGE_EMPTYCACHE&LSCWP_NONCE=dea631f9c2
+02/25/23 14:51:07.839 [162.158.179.98:53090 1 42y] Cookie _lscache_vary: 30c8e4eff1f581bb492513fac317acf7
+02/25/23 14:51:07.839 [162.158.179.98:53090 1 42y] LSCACHE_VARY_COOKIE: ,wp-postpass_7fbb35dd8575fffdd2f2f9ea7d31c0ae
+02/25/23 14:51:07.951 [162.158.179.98:53090 1 42y] 👮  No cache due to Admin page
+02/25/23 14:51:07.991 [162.158.179.98:53090 1 42y] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:51:08.220 [162.158.179.98:53090 1 42y] 🕸️  Init w/ CPU cores=4
+02/25/23 14:51:08.224 [162.158.179.98:53090 1 42y] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:51:08.224 [162.158.179.98:53090 1 42y] [Router] get_role: administrator
+02/25/23 14:51:08.224 [162.158.179.98:53090 1 42y] [Vary] set_cookie ---> admin_bar:1;logged-in:1;role:99
+02/25/23 14:51:08.224 [162.158.179.98:53090 1 42y] [Ctrl] ❌ forced no cache [reason] DONOTCACHEPAGE const
+02/25/23 14:51:08.224 [162.158.179.98:53090 1 42y] Response headers --- array (
+  0 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  1 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  2 => 'Referrer-Policy: strict-origin-when-cross-origin',
+  3 => 'X-Frame-Options: SAMEORIGIN',
+  4 => 'Content-Type: text/html; charset=UTF-8',
+  5 => 'Set-Cookie: _lscache_vary=admin_bar%3A1%3Blogged-in%3A1%3Brole%3A99; expires=Mon, 27-Feb-2023 07:51:08 GMT; Max-Age=172800; path=/; secure; HttpOnly',
+)
+02/25/23 14:51:08.224 [162.158.179.98:53090 1 42y] End response
+--------------------------------------------------------------------------------
+
+
+
+
+
+02/25/23 14:51:13.871 [162.158.179.98:53100 1 cDC] 💓 ------GET HTTP/1.1 (HTTPS)  /wp-admin/admin.php
+02/25/23 14:51:13.871 [162.158.179.98:53100 1 cDC] Query String: page=litespeed&LSCWP_CTRL=health&LSCWP_NONCE=be480f6f8e&litespeed_type=score
+02/25/23 14:51:13.871 [162.158.179.98:53100 1 cDC] HTTP_REFERER: https://test.ffilm.online/wp-admin/admin.php?page=litespeed
+02/25/23 14:51:13.871 [162.158.179.98:53100 1 cDC] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:51:13.871 [162.158.179.98:53100 1 cDC] LSCACHE_VARY_COOKIE: ,wp-postpass_7fbb35dd8575fffdd2f2f9ea7d31c0ae
+02/25/23 14:51:13.945 [162.158.179.98:53100 1 cDC] 👮  No cache due to Admin page
+02/25/23 14:51:13.974 [162.158.179.98:53100 1 cDC] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:51:13.975 [162.158.179.98:53100 1 cDC] [Router] LSCWP_CTRL: health
+02/25/23 14:51:13.975 [162.158.179.98:53100 1 cDC] [Router] LSCWP_CTRL verified: 'health'
+02/25/23 14:51:13.975 [162.158.179.98:53100 1 cDC] [Router] parsed type: score
+02/25/23 14:51:13.979 [162.158.179.98:53100 1 cDC] [Health] ❌ no data
+02/25/23 14:51:13.980 [162.158.179.98:53100 1 cDC] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:51:13.980 [162.158.179.98:53100 1 cDC] [Router] get_role: administrator
+02/25/23 14:51:13.980 [162.158.179.98:53100 1 cDC] [Ctrl] ❌ forced no cache [reason] DONOTCACHEPAGE const
+02/25/23 14:51:13.980 [162.158.179.98:53100 1 cDC] Response headers --- array (
+  0 => 'X-Redirect-By: WordPress',
+  1 => 'Location: https://test.ffilm.online/wp-admin/admin.php?page=litespeed',
+)
+02/25/23 14:51:13.980 [162.158.179.98:53100 1 cDC] End response
+--------------------------------------------------------------------------------
+
+02/25/23 14:51:14.065 [162.158.179.98:53100 1 QH2] 💓 ------GET HTTP/1.1 (HTTPS)  /wp-admin/admin.php
+02/25/23 14:51:14.065 [162.158.179.98:53100 1 QH2] Query String: page=litespeed
+02/25/23 14:51:14.065 [162.158.179.98:53100 1 QH2] HTTP_REFERER: https://test.ffilm.online/wp-admin/admin.php?page=litespeed
+02/25/23 14:51:14.065 [162.158.179.98:53100 1 QH2] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:51:14.065 [162.158.179.98:53100 1 QH2] LSCACHE_VARY_COOKIE: ,wp-postpass_7fbb35dd8575fffdd2f2f9ea7d31c0ae
+02/25/23 14:51:14.144 [162.158.179.98:53100 1 QH2] 👮  No cache due to Admin page
+02/25/23 14:51:14.184 [162.158.179.98:53100 1 QH2] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:51:14.382 [162.158.179.98:53100 1 QH2] 🕸️  Init w/ CPU cores=4
+02/25/23 14:51:14.385 [162.158.179.98:53100 1 QH2] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:51:14.385 [162.158.179.98:53100 1 QH2] [Router] get_role: administrator
+02/25/23 14:51:14.386 [162.158.179.98:53100 1 QH2] [Ctrl] ❌ forced no cache [reason] DONOTCACHEPAGE const
+02/25/23 14:51:14.386 [162.158.179.98:53100 1 QH2] Response headers --- array (
+  0 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  1 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  2 => 'Referrer-Policy: strict-origin-when-cross-origin',
+  3 => 'X-Frame-Options: SAMEORIGIN',
+  4 => 'Content-Type: text/html; charset=UTF-8',
+)
+02/25/23 14:51:14.386 [162.158.179.98:53100 1 QH2] End response
+--------------------------------------------------------------------------------
+
+
+
+
+
+02/25/23 14:51:22.692 [162.158.179.97:53594 1 Iqb] 💓 ------GET HTTP/1.1 (HTTPS)  /wp-admin/admin.php
+02/25/23 14:51:22.692 [162.158.179.97:53594 1 Iqb] Query String: page=litespeed-cache
+02/25/23 14:51:22.692 [162.158.179.97:53594 1 Iqb] HTTP_REFERER: https://test.ffilm.online/wp-admin/admin.php?page=litespeed
+02/25/23 14:51:22.692 [162.158.179.97:53594 1 Iqb] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:51:22.692 [162.158.179.97:53594 1 Iqb] LSCACHE_VARY_COOKIE: ,wp-postpass_7fbb35dd8575fffdd2f2f9ea7d31c0ae
+02/25/23 14:51:22.796 [162.158.179.97:53594 1 Iqb] 👮  No cache due to Admin page
+02/25/23 14:51:22.823 [162.158.179.97:53594 1 Iqb] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:51:23.073 [162.158.179.97:53594 1 Iqb] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:51:23.074 [162.158.179.97:53594 1 Iqb] [Router] get_role: administrator
+02/25/23 14:51:23.074 [162.158.179.97:53594 1 Iqb] [Ctrl] ❌ forced no cache [reason] DONOTCACHEPAGE const
+02/25/23 14:51:23.074 [162.158.179.97:53594 1 Iqb] Response headers --- array (
+  0 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  1 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  2 => 'Referrer-Policy: strict-origin-when-cross-origin',
+  3 => 'X-Frame-Options: SAMEORIGIN',
+  4 => 'Content-Type: text/html; charset=UTF-8',
+)
+02/25/23 14:51:23.074 [162.158.179.97:53594 1 Iqb] End response
+--------------------------------------------------------------------------------
+
+02/25/23 14:51:25.770 [162.158.179.97:53594 1 gUB] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin.php
+02/25/23 14:51:25.770 [162.158.179.97:53594 1 gUB] Query String: page=litespeed-cache
+02/25/23 14:51:25.770 [162.158.179.97:53594 1 gUB] HTTP_REFERER: https://test.ffilm.online/wp-admin/admin.php?page=litespeed-cache
+02/25/23 14:51:25.770 [162.158.179.97:53594 1 gUB] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:51:25.770 [162.158.179.97:53594 1 gUB] LSCACHE_VARY_COOKIE: ,wp-postpass_7fbb35dd8575fffdd2f2f9ea7d31c0ae
+02/25/23 14:51:25.840 [162.158.179.97:53594 1 gUB] 👮  No cache due to Admin page
+02/25/23 14:51:25.873 [162.158.179.97:53594 1 gUB] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:51:25.874 [162.158.179.97:53594 1 gUB] [Router] LSCWP_CTRL: save-settings
+02/25/23 14:51:25.874 [162.158.179.97:53594 1 gUB] [Router] LSCWP_CTRL verified: 'save-settings'
+02/25/23 14:51:25.992 [162.158.179.97:53594 1 gUB] [Settings] saving
+02/25/23 14:51:26.004 [162.158.179.97:53594 1 gUB] 🧹  added *
+02/25/23 14:51:26.004 [162.158.179.97:53594 1 gUB] 🧹  X-LiteSpeed-Purge: public,3a8_
+02/25/23 14:51:26.005 [162.158.179.97:53594 1 gUB] 🧹  added _MIN
+02/25/23 14:51:26.005 [162.158.179.97:53594 1 gUB] 🧹  X-LiteSpeed-Purge: public,3a8_
+02/25/23 14:51:26.007 [162.158.179.97:53594 1 gUB] 🧹  added _LOCALRES
+02/25/23 14:51:26.007 [162.158.179.97:53594 1 gUB] 🧹  X-LiteSpeed-Purge: public,3a8_
+02/25/23 14:51:26.007 [162.158.179.97:53594 1 gUB] 🧹  Failed to flush object cache due to object cache not enabled
+02/25/23 14:51:26.008 [162.158.179.97:53594 1 gUB] 🧹  Reset opcode cache
+02/25/23 14:51:26.008 [162.158.179.97:53594 1 gUB] 🧹  Purge all ( conf changed [id] cache )
+02/25/23 14:51:26.009 [162.158.179.97:53594 1 gUB] 🗂️ [Activation] update_files
+02/25/23 14:51:26.086 [162.158.179.97:53594 1 gUB] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:51:26.087 [162.158.179.97:53594 1 gUB] [Router] get_role: administrator
+02/25/23 14:51:26.087 [162.158.179.97:53594 1 gUB] [Ctrl] ❌ forced no cache [reason] DONOTCACHEPAGE const
+02/25/23 14:51:26.087 [162.158.179.97:53594 1 gUB] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:51:26.087 [162.158.179.97:53594 1 gUB] 💰 X-LiteSpeed-Purge: public,3a8_
+02/25/23 14:51:26.087 [162.158.179.97:53594 1 gUB] Response headers --- array (
+  0 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  1 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  2 => 'Referrer-Policy: strict-origin-when-cross-origin',
+  3 => 'X-Frame-Options: SAMEORIGIN',
+  4 => 'Content-Type: text/html; charset=UTF-8',
+  5 => 'X-LiteSpeed-Cache-Control: no-cache',
+  6 => 'X-LiteSpeed-Purge: public,3a8_',
+)
+02/25/23 14:51:26.087 [162.158.179.97:53594 1 gUB] End response
+--------------------------------------------------------------------------------
+
+
+
+
+
+02/25/23 14:51:34.569 [172.71.215.76:57374 1 Wcw] 💓 ------GET HTTP/1.1 (HTTPS)  /san-pham/test/
+02/25/23 14:51:34.569 [172.71.215.76:57374 1 Wcw] Query String: 
+02/25/23 14:51:35.228 [172.71.215.76:57374 1 Wcw] [Router] get_role: 
+02/25/23 14:51:35.231 [172.71.215.76:57374 1 Wcw] 📺  Suppress default WP lazyload
+02/25/23 14:51:35.237 [172.71.215.76:57374 1 Wcw] [Optm] init
+02/25/23 14:51:35.498 [172.71.215.76:57374 1 Wcw] 💰 [Tag] Add  --- HTTP.200
+02/25/23 14:51:35.499 [172.71.215.76:57374 1 Wcw] [Ctrl] X Cache_control init on
+02/25/23 14:51:35.639 [172.71.215.76:57374 1 Wcw] [Core] Footer hook called
+02/25/23 14:51:35.641 [172.71.215.76:57374 1 Wcw] [Core] Footer check passed
+02/25/23 14:51:35.641 [172.71.215.76:57374 1 Wcw] [Router] get_role: 
+02/25/23 14:51:35.641 [172.71.215.76:57374 1 Wcw] [Router] get_role: 
+02/25/23 14:51:35.641 [172.71.215.76:57374 1 Wcw] [Vary] role id: failed, guest
+02/25/23 14:51:35.641 [172.71.215.76:57374 1 Wcw] [Router] get_role: 
+02/25/23 14:51:35.641 [172.71.215.76:57374 1 Wcw] [Router] get_role: 
+02/25/23 14:51:35.641 [172.71.215.76:57374 1 Wcw] 💰 X-LiteSpeed-Cache-Control: public,max-age=604800
+02/25/23 14:51:35.641 [172.71.215.76:57374 1 Wcw] 💰 X-LiteSpeed-Tag: 3a8_HTTP.200,3a8_product,3a8_URL./san-pham/test/,3a8_Po.17,3a8_
+02/25/23 14:51:35.641 [172.71.215.76:57374 1 Wcw] [Core] Footer check passed
+02/25/23 14:51:35.642 [172.71.215.76:57374 1 Wcw] 📺  finalize
+02/25/23 14:51:35.645 [172.71.215.76:57374 1 Wcw] [Optm] start
+02/25/23 14:51:35.782 [172.71.215.76:57374 1 Wcw] [Optimizer] ✅ Save remote file to cache [name] /usr/local/lsws/test.ffilm.online/html/public/wp-content/litespeed/css/20230225/de1975104996dafce0529bbc0cda6211
+02/25/23 14:51:35.856 [172.71.215.76:57374 1 Wcw] [Optimizer] ✅ Save remote file to cache [name] /usr/local/lsws/test.ffilm.online/html/public/wp-content/litespeed/css/20230225/cff276076075408b2a3fcb2054648bee
+02/25/23 14:51:35.862 [172.71.215.76:57374 1 Wcw] [Router] get_role: 
+02/25/23 14:51:35.862 [172.71.215.76:57374 1 Wcw] [Vary] role id: failed, guest
+02/25/23 14:51:35.862 [172.71.215.76:57374 1 Wcw] [Router] get_role: 
+02/25/23 14:51:35.862 [172.71.215.76:57374 1 Wcw] [Router] get_role: 
+02/25/23 14:51:35.864 [172.71.215.76:57374 1 Wcw] 💰 [Tag] Add  --- MIN.7c43eb4754471adb182c139aace9080d.css
+02/25/23 14:51:35.977 [172.71.215.76:57374 1 Wcw] [Optimizer] ✅ Save remote file to cache [name] /usr/local/lsws/test.ffilm.online/html/public/wp-content/litespeed/js/20230225/7f4bba50e78d5505462fa0345df5b0b2
+02/25/23 14:51:36.035 [172.71.215.76:57374 1 Wcw] Response headers --- array (
+  0 => 'X-DNS-Prefetch-Control: on',
+  1 => 'Content-Type: text/html; charset=UTF-8',
+  2 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  3 => 'Link: <https://test.ffilm.online/wp-json/wp/v2/product/17>; rel="alternate"; type="application/json"',
+  4 => 'Link: <https://test.ffilm.online/?p=17>; rel=shortlink',
+  5 => 'X-LiteSpeed-Cache-Control: public,max-age=604800',
+  6 => 'X-LiteSpeed-Tag: 3a8_HTTP.200,3a8_product,3a8_URL./san-pham/test/,3a8_Po.17,3a8_,3a8_MIN.7c43eb4754471adb182c139aace9080d.css',
+)
+02/25/23 14:51:36.035 [172.71.215.76:57374 1 Wcw] End response
+--------------------------------------------------------------------------------
+
+02/25/23 14:51:37.011 [162.158.179.129:33936 1 VlS] 💓 ------GET HTTP/1.1 (HTTPS)  /ajax/get_json.php
+02/25/23 14:51:37.011 [162.158.179.129:33936 1 VlS] Query String: action=article&action_type=featured&type=article&catId=25&show=10
+02/25/23 14:51:37.011 [162.158.179.129:33936 1 VlS] HTTP_REFERER: https://test.ffilm.online/san-pham/test/
+02/25/23 14:51:37.012 [162.158.179.130:18612 1 gkH] 💓 ------POST HTTP/1.1 (HTTPS)  /ajax/cart.php
+02/25/23 14:51:37.012 [162.158.179.130:18612 1 gkH] Query String: 
+02/25/23 14:51:37.012 [162.158.179.130:18612 1 gkH] HTTP_REFERER: https://test.ffilm.online/san-pham/test/
+02/25/23 14:51:37.032 [162.158.179.130:18628 1 daC] 💓 ------POST HTTP/1.1 (HTTPS)  /ajax/cart.php
+02/25/23 14:51:37.032 [162.158.179.130:18628 1 daC] Query String: 
+02/25/23 14:51:37.032 [162.158.179.130:18628 1 daC] HTTP_REFERER: https://test.ffilm.online/san-pham/test/
+02/25/23 14:51:37.107 [162.158.179.130:18612 1 gkH] [Router] get_role: 
+02/25/23 14:51:37.107 [162.158.179.130:18612 1 gkH] 📺  Suppress default WP lazyload
+02/25/23 14:51:37.108 [162.158.179.130:18612 1 gkH] [Optm] init
+02/25/23 14:51:37.154 [162.158.179.129:33936 1 VlS] [Router] get_role: 
+02/25/23 14:51:37.154 [162.158.179.129:33936 1 VlS] 📺  Suppress default WP lazyload
+02/25/23 14:51:37.154 [162.158.179.129:33936 1 VlS] [Optm] init
+02/25/23 14:51:37.157 [162.158.179.130:18612 1 gkH] [Ctrl] X Cache_control TTL -> 3600
+02/25/23 14:51:37.157 [162.158.179.130:18612 1 gkH] 💰 [Tag] Add  --- HTTP.404
+02/25/23 14:51:37.158 [162.158.179.130:18612 1 gkH] [Ctrl] X Cache_control init on
+02/25/23 14:51:37.158 [162.158.179.130:18628 1 daC] [Router] get_role: 
+02/25/23 14:51:37.159 [162.158.179.130:18628 1 daC] 📺  Suppress default WP lazyload
+02/25/23 14:51:37.159 [162.158.179.130:18628 1 daC] [Optm] init
+02/25/23 14:51:37.160 [162.158.179.130:18612 1 gkH] [Ctrl] X Cache_control off - Not GET method: POST
+02/25/23 14:51:37.160 [162.158.179.130:18612 1 gkH] [Ctrl] X Cache_control -> no Cache 
+02/25/23 14:51:37.160 [162.158.179.130:18612 1 gkH] [Router] get_role: 
+02/25/23 14:51:37.160 [162.158.179.130:18612 1 gkH] [Vary] role id: failed, guest
+02/25/23 14:51:37.160 [162.158.179.130:18612 1 gkH] [Router] get_role: 
+02/25/23 14:51:37.160 [162.158.179.130:18612 1 gkH] [Router] get_role: 
+02/25/23 14:51:37.160 [162.158.179.130:18612 1 gkH] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:51:37.160 [162.158.179.130:18612 1 gkH] [Optm] bypass: Not frontend HTML type
+02/25/23 14:51:37.160 [162.158.179.130:18612 1 gkH] Response headers --- array (
+  0 => 'X-DNS-Prefetch-Control: on',
+  1 => 'X-LiteSpeed-Tag: 3a8_HTTP.404',
+  2 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  3 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  4 => 'Content-Type: text/html; charset=UTF-8',
+  5 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  6 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:51:37.160 [162.158.179.130:18612 1 gkH] End response
+--------------------------------------------------------------------------------
+
+02/25/23 14:51:37.193 [162.158.179.129:33936 1 VlS] [Ctrl] X Cache_control TTL -> 3600
+02/25/23 14:51:37.193 [162.158.179.129:33936 1 VlS] 💰 [Tag] Add  --- HTTP.404
+02/25/23 14:51:37.193 [162.158.179.129:33936 1 VlS] [Ctrl] X Cache_control init on
+02/25/23 14:51:37.195 [162.158.179.129:33936 1 VlS] [Router] get_role: 
+02/25/23 14:51:37.195 [162.158.179.129:33936 1 VlS] [Router] get_role: 
+02/25/23 14:51:37.195 [162.158.179.129:33936 1 VlS] [Vary] role id: failed, guest
+02/25/23 14:51:37.195 [162.158.179.129:33936 1 VlS] [Router] get_role: 
+02/25/23 14:51:37.195 [162.158.179.129:33936 1 VlS] [Router] get_role: 
+02/25/23 14:51:37.195 [162.158.179.129:33936 1 VlS] 💰 X-LiteSpeed-Cache-Control: public,max-age=3600
+02/25/23 14:51:37.195 [162.158.179.129:33936 1 VlS] 💰 X-LiteSpeed-Tag: 3a8_HTTP.404,3a8_404,3a8_URL./ajax/get_json.php/,3a8_
+02/25/23 14:51:37.195 [162.158.179.129:33936 1 VlS] [Optm] bypass: Not frontend HTML type
+02/25/23 14:51:37.195 [162.158.179.129:33936 1 VlS] Response headers --- array (
+  0 => 'X-DNS-Prefetch-Control: on',
+  1 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  2 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  3 => 'Content-Type: text/html; charset=UTF-8',
+  4 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  5 => 'X-LiteSpeed-Cache-Control: public,max-age=3600',
+  6 => 'X-LiteSpeed-Tag: 3a8_HTTP.404,3a8_404,3a8_URL./ajax/get_json.php/,3a8_',
+)
+02/25/23 14:51:37.196 [162.158.179.129:33936 1 VlS] End response
+--------------------------------------------------------------------------------
+
+02/25/23 14:51:37.211 [162.158.179.130:18628 1 daC] [Ctrl] X Cache_control TTL -> 3600
+02/25/23 14:51:37.211 [162.158.179.130:18628 1 daC] 💰 [Tag] Add  --- HTTP.404
+02/25/23 14:51:37.211 [162.158.179.130:18628 1 daC] [Ctrl] X Cache_control init on
+02/25/23 14:51:37.213 [162.158.179.130:18628 1 daC] [Ctrl] X Cache_control off - Not GET method: POST
+02/25/23 14:51:37.213 [162.158.179.130:18628 1 daC] [Ctrl] X Cache_control -> no Cache 
+02/25/23 14:51:37.213 [162.158.179.130:18628 1 daC] [Router] get_role: 
+02/25/23 14:51:37.213 [162.158.179.130:18628 1 daC] [Vary] role id: failed, guest
+02/25/23 14:51:37.213 [162.158.179.130:18628 1 daC] [Router] get_role: 
+02/25/23 14:51:37.213 [162.158.179.130:18628 1 daC] [Router] get_role: 
+02/25/23 14:51:37.213 [162.158.179.130:18628 1 daC] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:51:37.213 [162.158.179.130:18628 1 daC] [Optm] bypass: Not frontend HTML type
+02/25/23 14:51:37.213 [162.158.179.130:18628 1 daC] Response headers --- array (
+  0 => 'X-DNS-Prefetch-Control: on',
+  1 => 'X-LiteSpeed-Tag: 3a8_HTTP.404',
+  2 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  3 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  4 => 'Content-Type: text/html; charset=UTF-8',
+  5 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  6 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:51:37.213 [162.158.179.130:18628 1 daC] End response
+--------------------------------------------------------------------------------
+
+
+
+
+
+02/25/23 14:51:41.455 [162.158.179.130:18628 1 2FM] 💓 ------POST HTTP/1.1 (HTTPS)  /ajax/cart.php
+02/25/23 14:51:41.455 [162.158.179.130:18628 1 2FM] Query String: 
+02/25/23 14:51:41.455 [162.158.179.130:18628 1 2FM] HTTP_REFERER: https://test.ffilm.online/san-pham/test/
+02/25/23 14:51:41.473 [162.158.179.129:33936 1 Ff3] 💓 ------POST HTTP/1.1 (HTTPS)  /ajax/cart.php
+02/25/23 14:51:41.474 [162.158.179.129:33936 1 Ff3] Query String: 
+02/25/23 14:51:41.474 [162.158.179.129:33936 1 Ff3] HTTP_REFERER: https://test.ffilm.online/san-pham/test/
+02/25/23 14:51:41.536 [162.158.179.130:18628 1 2FM] [Router] get_role: 
+02/25/23 14:51:41.537 [162.158.179.130:18628 1 2FM] 📺  Suppress default WP lazyload
+02/25/23 14:51:41.537 [162.158.179.130:18628 1 2FM] [Optm] init
+02/25/23 14:51:41.552 [162.158.179.129:33936 1 Ff3] [Router] get_role: 
+02/25/23 14:51:41.553 [162.158.179.129:33936 1 Ff3] 📺  Suppress default WP lazyload
+02/25/23 14:51:41.553 [162.158.179.129:33936 1 Ff3] [Optm] init
+02/25/23 14:51:41.572 [162.158.179.130:18628 1 2FM] [Ctrl] X Cache_control TTL -> 3600
+02/25/23 14:51:41.572 [162.158.179.130:18628 1 2FM] 💰 [Tag] Add  --- HTTP.404
+02/25/23 14:51:41.573 [162.158.179.130:18628 1 2FM] [Ctrl] X Cache_control init on
+02/25/23 14:51:41.574 [162.158.179.130:18628 1 2FM] [Ctrl] X Cache_control off - Not GET method: POST
+02/25/23 14:51:41.574 [162.158.179.130:18628 1 2FM] [Ctrl] X Cache_control -> no Cache 
+02/25/23 14:51:41.574 [162.158.179.130:18628 1 2FM] [Router] get_role: 
+02/25/23 14:51:41.574 [162.158.179.130:18628 1 2FM] [Vary] role id: failed, guest
+02/25/23 14:51:41.574 [162.158.179.130:18628 1 2FM] [Router] get_role: 
+02/25/23 14:51:41.574 [162.158.179.130:18628 1 2FM] [Router] get_role: 
+02/25/23 14:51:41.574 [162.158.179.130:18628 1 2FM] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:51:41.574 [162.158.179.130:18628 1 2FM] [Optm] bypass: Not frontend HTML type
+02/25/23 14:51:41.574 [162.158.179.130:18628 1 2FM] Response headers --- array (
+  0 => 'X-DNS-Prefetch-Control: on',
+  1 => 'X-LiteSpeed-Tag: 3a8_HTTP.404',
+  2 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  3 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  4 => 'Content-Type: text/html; charset=UTF-8',
+  5 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  6 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:51:41.574 [162.158.179.130:18628 1 2FM] End response
+--------------------------------------------------------------------------------
+
+02/25/23 14:51:41.587 [162.158.179.129:33936 1 Ff3] [Ctrl] X Cache_control TTL -> 3600
+02/25/23 14:51:41.587 [162.158.179.129:33936 1 Ff3] 💰 [Tag] Add  --- HTTP.404
+02/25/23 14:51:41.587 [162.158.179.129:33936 1 Ff3] [Ctrl] X Cache_control init on
+02/25/23 14:51:41.589 [162.158.179.129:33936 1 Ff3] [Ctrl] X Cache_control off - Not GET method: POST
+02/25/23 14:51:41.589 [162.158.179.129:33936 1 Ff3] [Ctrl] X Cache_control -> no Cache 
+02/25/23 14:51:41.589 [162.158.179.129:33936 1 Ff3] [Router] get_role: 
+02/25/23 14:51:41.589 [162.158.179.129:33936 1 Ff3] [Vary] role id: failed, guest
+02/25/23 14:51:41.589 [162.158.179.129:33936 1 Ff3] [Router] get_role: 
+02/25/23 14:51:41.589 [162.158.179.129:33936 1 Ff3] [Router] get_role: 
+02/25/23 14:51:41.589 [162.158.179.129:33936 1 Ff3] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:51:41.589 [162.158.179.129:33936 1 Ff3] [Optm] bypass: Not frontend HTML type
+02/25/23 14:51:41.589 [162.158.179.129:33936 1 Ff3] Response headers --- array (
+  0 => 'X-DNS-Prefetch-Control: on',
+  1 => 'X-LiteSpeed-Tag: 3a8_HTTP.404',
+  2 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  3 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  4 => 'Content-Type: text/html; charset=UTF-8',
+  5 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  6 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:51:41.589 [162.158.179.129:33936 1 Ff3] End response
+--------------------------------------------------------------------------------
+
+
+
+
+
+02/25/23 14:51:51.942 [162.158.179.98:46836 1 HYo] 💓 ------GET HTTP/1.1 (HTTPS)  /wp-admin/admin.php
+02/25/23 14:51:51.942 [162.158.179.98:46836 1 HYo] Query String: page=litespeed-toolbox
+02/25/23 14:51:51.942 [162.158.179.98:46836 1 HYo] HTTP_REFERER: https://test.ffilm.online/wp-admin/admin.php?page=litespeed-cache
+02/25/23 14:51:51.942 [162.158.179.98:46836 1 HYo] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:51:51.942 [162.158.179.98:46836 1 HYo] LSCACHE_VARY_COOKIE: ,wp-postpass_7fbb35dd8575fffdd2f2f9ea7d31c0ae
+02/25/23 14:51:52.078 [162.158.179.98:46836 1 HYo] 👮  No cache due to Admin page
+02/25/23 14:51:52.112 [162.158.179.98:46836 1 HYo] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:51:52.515 [162.158.179.98:46836 1 HYo] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:51:52.515 [162.158.179.98:46836 1 HYo] [Router] get_role: administrator
+02/25/23 14:51:52.515 [162.158.179.98:46836 1 HYo] [Ctrl] ❌ forced no cache [reason] DONOTCACHEPAGE const
+02/25/23 14:51:52.515 [162.158.179.98:46836 1 HYo] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:51:52.515 [162.158.179.98:46836 1 HYo] Response headers --- array (
+  0 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  1 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  2 => 'Referrer-Policy: strict-origin-when-cross-origin',
+  3 => 'X-Frame-Options: SAMEORIGIN',
+  4 => 'Content-Type: text/html; charset=UTF-8',
+  5 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:51:52.515 [162.158.179.98:46836 1 HYo] End response
+--------------------------------------------------------------------------------
+
+
+
+
+
+02/25/23 14:52:39.231 [172.71.215.75:40970 1 3aU] 💓 ------POST HTTP/1.1 (HTTPS)  /ajax/cart.php
+02/25/23 14:52:39.231 [172.71.215.75:40970 1 3aU] Query String: 
+02/25/23 14:52:39.231 [172.71.215.75:40970 1 3aU] HTTP_REFERER: https://test.ffilm.online/san-pham/test/
+02/25/23 14:52:39.285 [172.71.215.75:40986 1 a6D] 💓 ------POST HTTP/1.1 (HTTPS)  /ajax/cart.php
+02/25/23 14:52:39.285 [172.71.215.75:40986 1 a6D] Query String: 
+02/25/23 14:52:39.285 [172.71.215.75:40986 1 a6D] HTTP_REFERER: https://test.ffilm.online/san-pham/test/
+02/25/23 14:52:39.352 [172.71.215.75:40970 1 3aU] [Router] get_role: 
+02/25/23 14:52:39.352 [172.71.215.75:40970 1 3aU] 📺  Suppress default WP lazyload
+02/25/23 14:52:39.352 [172.71.215.75:40970 1 3aU] [Optm] init
+02/25/23 14:52:39.387 [172.71.215.75:40986 1 a6D] [Router] get_role: 
+02/25/23 14:52:39.387 [172.71.215.75:40986 1 a6D] 📺  Suppress default WP lazyload
+02/25/23 14:52:39.388 [172.71.215.75:40986 1 a6D] [Optm] init
+02/25/23 14:52:39.421 [172.71.215.75:40970 1 3aU] [Ctrl] X Cache_control TTL -> 3600
+02/25/23 14:52:39.421 [172.71.215.75:40970 1 3aU] 💰 [Tag] Add  --- HTTP.404
+02/25/23 14:52:39.422 [172.71.215.75:40970 1 3aU] [Ctrl] X Cache_control init on
+02/25/23 14:52:39.424 [172.71.215.75:40970 1 3aU] [Ctrl] X Cache_control off - Not GET method: POST
+02/25/23 14:52:39.424 [172.71.215.75:40970 1 3aU] [Ctrl] X Cache_control -> no Cache 
+02/25/23 14:52:39.424 [172.71.215.75:40970 1 3aU] [Router] get_role: 
+02/25/23 14:52:39.425 [172.71.215.75:40970 1 3aU] [Vary] role id: failed, guest
+02/25/23 14:52:39.425 [172.71.215.75:40970 1 3aU] [Router] get_role: 
+02/25/23 14:52:39.425 [172.71.215.75:40970 1 3aU] [Router] get_role: 
+02/25/23 14:52:39.425 [172.71.215.75:40970 1 3aU] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:52:39.425 [172.71.215.75:40970 1 3aU] [Optm] bypass: Not frontend HTML type
+02/25/23 14:52:39.426 [172.71.215.75:40970 1 3aU] Response headers --- array (
+  0 => 'X-DNS-Prefetch-Control: on',
+  1 => 'X-LiteSpeed-Tag: 3a8_HTTP.404',
+  2 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  3 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  4 => 'Content-Type: text/html; charset=UTF-8',
+  5 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  6 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:52:39.426 [172.71.215.75:40970 1 3aU] End response
+--------------------------------------------------------------------------------
+
+02/25/23 14:52:39.442 [172.71.215.75:40986 1 a6D] [Ctrl] X Cache_control TTL -> 3600
+02/25/23 14:52:39.443 [172.71.215.75:40986 1 a6D] 💰 [Tag] Add  --- HTTP.404
+02/25/23 14:52:39.443 [172.71.215.75:40986 1 a6D] [Ctrl] X Cache_control init on
+02/25/23 14:52:39.445 [172.71.215.75:40986 1 a6D] [Ctrl] X Cache_control off - Not GET method: POST
+02/25/23 14:52:39.446 [172.71.215.75:40986 1 a6D] [Ctrl] X Cache_control -> no Cache 
+02/25/23 14:52:39.446 [172.71.215.75:40986 1 a6D] [Router] get_role: 
+02/25/23 14:52:39.446 [172.71.215.75:40986 1 a6D] [Vary] role id: failed, guest
+02/25/23 14:52:39.446 [172.71.215.75:40986 1 a6D] [Router] get_role: 
+02/25/23 14:52:39.446 [172.71.215.75:40986 1 a6D] [Router] get_role: 
+02/25/23 14:52:39.446 [172.71.215.75:40986 1 a6D] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:52:39.446 [172.71.215.75:40986 1 a6D] [Optm] bypass: Not frontend HTML type
+02/25/23 14:52:39.446 [172.71.215.75:40986 1 a6D] Response headers --- array (
+  0 => 'X-DNS-Prefetch-Control: on',
+  1 => 'X-LiteSpeed-Tag: 3a8_HTTP.404',
+  2 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  3 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  4 => 'Content-Type: text/html; charset=UTF-8',
+  5 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  6 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:52:39.446 [172.71.215.75:40986 1 a6D] End response
+--------------------------------------------------------------------------------
+
+
+
+
+
+02/25/23 14:52:53.415 [172.71.215.78:53600 1 qyF] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin-ajax.php
+02/25/23 14:52:53.415 [172.71.215.78:53600 1 qyF] Query String: 
+02/25/23 14:52:53.415 [172.71.215.78:53600 1 qyF] HTTP_REFERER: https://test.ffilm.online/wp-admin/admin.php?page=litespeed-toolbox
+02/25/23 14:52:53.415 [172.71.215.78:53600 1 qyF] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:52:53.415 [172.71.215.78:53600 1 qyF] LSCACHE_VARY_COOKIE: ,wp-postpass_7fbb35dd8575fffdd2f2f9ea7d31c0ae
+02/25/23 14:52:53.505 [172.71.215.78:53600 1 qyF] 👮  No cache due to Admin page
+02/25/23 14:52:53.534 [172.71.215.78:53600 1 qyF] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:52:53.612 [172.71.215.78:53600 1 qyF] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:52:53.612 [172.71.215.78:53600 1 qyF] [Router] get_role: administrator
+02/25/23 14:52:53.612 [172.71.215.78:53600 1 qyF] [Ctrl] ❌ forced no cache [reason] DONOTCACHEPAGE const
+02/25/23 14:52:53.612 [172.71.215.78:53600 1 qyF] [Core] Silence Comment due to REST/AJAX
+02/25/23 14:52:53.612 [172.71.215.78:53600 1 qyF] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:52:53.612 [172.71.215.78:53600 1 qyF] Response headers --- array (
+  0 => 'Access-Control-Allow-Origin: https://test.ffilm.online',
+  1 => 'Access-Control-Allow-Credentials: true',
+  2 => 'X-Robots-Tag: noindex',
+  3 => 'X-Content-Type-Options: nosniff',
+  4 => 'Referrer-Policy: strict-origin-when-cross-origin',
+  5 => 'X-Frame-Options: SAMEORIGIN',
+  6 => 'Content-Type: application/json; charset=UTF-8',
+  7 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  8 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  9 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:52:53.612 [172.71.215.78:53600 1 qyF] End response
+--------------------------------------------------------------------------------
+
+
+
+
+
+02/25/23 14:53:27.807 [172.71.214.184:51406 1 n1W] 💓 ------POST HTTP/1.1 (HTTPS)  /ajax/cart.php
+02/25/23 14:53:27.807 [172.71.214.184:51406 1 n1W] Query String: 
+02/25/23 14:53:27.807 [172.71.214.184:51406 1 n1W] HTTP_REFERER: https://test.ffilm.online/san-pham/test/
+02/25/23 14:53:27.826 [172.71.214.185:45104 1 98E] 💓 ------POST HTTP/1.1 (HTTPS)  /ajax/cart.php
+02/25/23 14:53:27.826 [172.71.214.185:45104 1 98E] Query String: 
+02/25/23 14:53:27.826 [172.71.214.185:45104 1 98E] HTTP_REFERER: https://test.ffilm.online/san-pham/test/
+02/25/23 14:53:27.946 [172.71.214.184:51406 1 n1W] [Router] get_role: 
+02/25/23 14:53:27.947 [172.71.214.184:51406 1 n1W] 📺  Suppress default WP lazyload
+02/25/23 14:53:27.947 [172.71.214.184:51406 1 n1W] [Optm] init
+02/25/23 14:53:27.952 [172.71.214.185:45104 1 98E] [Router] get_role: 
+02/25/23 14:53:27.953 [172.71.214.185:45104 1 98E] 📺  Suppress default WP lazyload
+02/25/23 14:53:27.953 [172.71.214.185:45104 1 98E] [Optm] init
+02/25/23 14:53:28.003 [172.71.214.184:51406 1 n1W] [Ctrl] X Cache_control TTL -> 3600
+02/25/23 14:53:28.003 [172.71.214.184:51406 1 n1W] 💰 [Tag] Add  --- HTTP.404
+02/25/23 14:53:28.004 [172.71.214.184:51406 1 n1W] [Ctrl] X Cache_control init on
+02/25/23 14:53:28.006 [172.71.214.185:45104 1 98E] [Ctrl] X Cache_control TTL -> 3600
+02/25/23 14:53:28.006 [172.71.214.185:45104 1 98E] 💰 [Tag] Add  --- HTTP.404
+02/25/23 14:53:28.006 [172.71.214.185:45104 1 98E] [Ctrl] X Cache_control init on
+02/25/23 14:53:28.007 [172.71.214.184:51406 1 n1W] [Ctrl] X Cache_control off - Not GET method: POST
+02/25/23 14:53:28.007 [172.71.214.184:51406 1 n1W] [Ctrl] X Cache_control -> no Cache 
+02/25/23 14:53:28.007 [172.71.214.184:51406 1 n1W] [Router] get_role: 
+02/25/23 14:53:28.007 [172.71.214.184:51406 1 n1W] [Vary] role id: failed, guest
+02/25/23 14:53:28.007 [172.71.214.184:51406 1 n1W] [Router] get_role: 
+02/25/23 14:53:28.007 [172.71.214.184:51406 1 n1W] [Router] get_role: 
+02/25/23 14:53:28.007 [172.71.214.184:51406 1 n1W] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:53:28.007 [172.71.214.184:51406 1 n1W] [Optm] bypass: Not frontend HTML type
+02/25/23 14:53:28.007 [172.71.214.184:51406 1 n1W] Response headers --- array (
+  0 => 'X-DNS-Prefetch-Control: on',
+  1 => 'X-LiteSpeed-Tag: 3a8_HTTP.404',
+  2 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  3 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  4 => 'Content-Type: text/html; charset=UTF-8',
+  5 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  6 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:53:28.007 [172.71.214.184:51406 1 n1W] End response
+--------------------------------------------------------------------------------
+
+02/25/23 14:53:28.009 [172.71.214.185:45104 1 98E] [Ctrl] X Cache_control off - Not GET method: POST
+02/25/23 14:53:28.009 [172.71.214.185:45104 1 98E] [Ctrl] X Cache_control -> no Cache 
+02/25/23 14:53:28.009 [172.71.214.185:45104 1 98E] [Router] get_role: 
+02/25/23 14:53:28.009 [172.71.214.185:45104 1 98E] [Vary] role id: failed, guest
+02/25/23 14:53:28.009 [172.71.214.185:45104 1 98E] [Router] get_role: 
+02/25/23 14:53:28.009 [172.71.214.185:45104 1 98E] [Router] get_role: 
+02/25/23 14:53:28.009 [172.71.214.185:45104 1 98E] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:53:28.009 [172.71.214.185:45104 1 98E] [Optm] bypass: Not frontend HTML type
+02/25/23 14:53:28.009 [172.71.214.185:45104 1 98E] Response headers --- array (
+  0 => 'X-DNS-Prefetch-Control: on',
+  1 => 'X-LiteSpeed-Tag: 3a8_HTTP.404',
+  2 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  3 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  4 => 'Content-Type: text/html; charset=UTF-8',
+  5 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  6 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:53:28.009 [172.71.214.185:45104 1 98E] End response
+--------------------------------------------------------------------------------
+
+
+
+
+
+02/25/23 14:53:33.565 [172.71.215.77:57436 1 09J] 💓 ------GET HTTP/1.1 (HTTPS)  /
+02/25/23 14:53:33.565 [172.71.215.77:57436 1 09J] Query String: LSCWP_CTRL=before_optm
+02/25/23 14:53:33.565 [172.71.215.77:57436 1 09J] HTTP_REFERER: https://test.ffilm.online/wp-admin/admin.php?page=litespeed-toolbox
+02/25/23 14:53:33.565 [172.71.215.77:57436 1 09J] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:53:33.565 [172.71.215.77:57436 1 09J] LSCACHE_VARY_COOKIE: ,wp-postpass_7fbb35dd8575fffdd2f2f9ea7d31c0ae
+02/25/23 14:53:33.626 [172.71.215.77:57436 1 09J] [Core] ⛑️ bypass_optm due to QS CTRL
+02/25/23 14:53:33.659 [172.71.215.77:57436 1 09J] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:53:33.659 [172.71.215.77:57436 1 09J] [Router] get_role: administrator
+02/25/23 14:53:33.659 [172.71.215.77:57436 1 09J] [Router] LSCWP_CTRL query string - did not match admin IP: before_optm
+02/25/23 14:53:33.825 [172.71.215.77:57436 1 09J] [Core] Footer hook called
+02/25/23 14:53:33.834 [172.71.215.77:57436 1 09J] [Core] Footer check passed
+02/25/23 14:53:33.835 [172.71.215.77:57436 1 09J] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:53:33.835 [172.71.215.77:57436 1 09J] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:53:33.835 [172.71.215.77:57436 1 09J] [Core] Footer check passed
+02/25/23 14:53:33.835 [172.71.215.77:57436 1 09J] Response headers --- array (
+  0 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  1 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  2 => 'Content-Type: text/html; charset=UTF-8',
+  3 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  4 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:53:33.835 [172.71.215.77:57436 1 09J] End response
+--------------------------------------------------------------------------------
+
+02/25/23 14:53:35.601 [172.71.214.185:10488 1 PYD] 💓 ------POST HTTP/1.1 (HTTPS)  /ajax/cart.php
+02/25/23 14:53:35.601 [172.71.214.185:10488 1 PYD] Query String: 
+02/25/23 14:53:35.601 [172.71.214.185:10488 1 PYD] HTTP_REFERER: https://test.ffilm.online/?LSCWP_CTRL=before_optm
+02/25/23 14:53:35.601 [172.71.214.185:10488 1 PYD] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:53:35.606 [172.71.214.185:10500 1 FRE] 💓 ------GET HTTP/1.1 (HTTPS)  /ajax/get_json.php
+02/25/23 14:53:35.606 [172.71.214.185:10500 1 FRE] Query String: action=article&action_type=featured&type=article&catId=25&show=10
+02/25/23 14:53:35.606 [172.71.214.185:10500 1 FRE] HTTP_REFERER: https://test.ffilm.online/?LSCWP_CTRL=before_optm
+02/25/23 14:53:35.606 [172.71.214.185:10500 1 FRE] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:53:35.703 [172.71.214.185:10500 1 FRE] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:53:35.703 [172.71.214.185:10500 1 FRE] [Router] get_role: administrator
+02/25/23 14:53:35.703 [172.71.214.185:10500 1 FRE] 📺  Suppress default WP lazyload
+02/25/23 14:53:35.720 [172.71.214.185:10488 1 PYD] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:53:35.721 [172.71.214.185:10488 1 PYD] [Router] get_role: administrator
+02/25/23 14:53:35.721 [172.71.214.185:10488 1 PYD] 📺  Suppress default WP lazyload
+02/25/23 14:53:35.761 [172.71.214.185:10500 1 FRE] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:53:35.761 [172.71.214.185:10500 1 FRE] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:53:35.762 [172.71.214.185:10500 1 FRE] Response headers --- array (
+  0 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  1 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  2 => 'Content-Type: text/html; charset=UTF-8',
+  3 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  4 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:53:35.762 [172.71.214.185:10500 1 FRE] End response
+--------------------------------------------------------------------------------
+
+02/25/23 14:53:35.765 [172.71.214.185:10488 1 PYD] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:53:35.765 [172.71.214.185:10488 1 PYD] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:53:35.765 [172.71.214.185:10488 1 PYD] Response headers --- array (
+  0 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  1 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  2 => 'Content-Type: text/html; charset=UTF-8',
+  3 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  4 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:53:35.765 [172.71.214.185:10488 1 PYD] End response
+--------------------------------------------------------------------------------
+
+02/25/23 14:53:36.845 [172.71.214.185:10488 1 tRh] 💓 ------POST HTTP/1.1 (HTTPS)  /
+02/25/23 14:53:36.845 [172.71.214.185:10488 1 tRh] Query String: wc-ajax=get_refreshed_fragments
+02/25/23 14:53:36.845 [172.71.214.185:10488 1 tRh] HTTP_REFERER: https://test.ffilm.online/?LSCWP_CTRL=before_optm
+02/25/23 14:53:36.845 [172.71.214.185:10488 1 tRh] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:53:36.845 [172.71.214.185:10488 1 tRh] LSCACHE_VARY_COOKIE: ,wp-postpass_7fbb35dd8575fffdd2f2f9ea7d31c0ae
+02/25/23 14:53:36.967 [172.71.214.185:10488 1 tRh] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:53:36.967 [172.71.214.185:10488 1 tRh] [Router] get_role: administrator
+02/25/23 14:53:36.968 [172.71.214.185:10488 1 tRh] 📺  Suppress default WP lazyload
+02/25/23 14:53:37.021 [172.71.214.185:10488 1 tRh] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:53:37.021 [172.71.214.185:10488 1 tRh] [Ctrl] ❌ forced no cache [reason] DONOTCACHEPAGE const
+02/25/23 14:53:37.021 [172.71.214.185:10488 1 tRh] [Core] Silence Comment due to REST/AJAX
+02/25/23 14:53:37.021 [172.71.214.185:10488 1 tRh] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:53:37.021 [172.71.214.185:10488 1 tRh] Response headers --- array (
+  0 => 'Access-Control-Allow-Origin: https://test.ffilm.online',
+  1 => 'Access-Control-Allow-Credentials: true',
+  2 => 'X-Content-Type-Options: nosniff',
+  3 => 'X-Robots-Tag: noindex',
+  4 => 'Content-Type: application/json; charset=UTF-8',
+  5 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  6 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  7 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:53:37.021 [172.71.214.185:10488 1 tRh] End response
+--------------------------------------------------------------------------------
+
+
+
+
+
+02/25/23 14:53:40.352 [172.71.214.185:10500 1 0Q5] 💓 ------GET HTTP/1.1 (HTTPS)  /
+02/25/23 14:53:40.352 [172.71.214.185:10500 1 0Q5] Query String: LSCWP_CTRL=before_optm
+02/25/23 14:53:40.352 [172.71.214.185:10500 1 0Q5] HTTP_REFERER: https://test.ffilm.online/wp-admin/admin.php?page=litespeed-toolbox
+02/25/23 14:53:40.352 [172.71.214.185:10500 1 0Q5] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:53:40.352 [172.71.214.185:10500 1 0Q5] LSCACHE_VARY_COOKIE: ,wp-postpass_7fbb35dd8575fffdd2f2f9ea7d31c0ae
+02/25/23 14:53:40.415 [172.71.214.185:10500 1 0Q5] [Core] ⛑️ bypass_optm due to QS CTRL
+02/25/23 14:53:40.444 [172.71.214.185:10500 1 0Q5] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:53:40.444 [172.71.214.185:10500 1 0Q5] [Router] get_role: administrator
+02/25/23 14:53:40.444 [172.71.214.185:10500 1 0Q5] [Router] LSCWP_CTRL query string - did not match admin IP: before_optm
+02/25/23 14:53:40.543 [172.71.214.185:10500 1 0Q5] [Core] Footer hook called
+02/25/23 14:53:40.549 [172.71.214.185:10500 1 0Q5] [Core] Footer check passed
+02/25/23 14:53:40.549 [172.71.214.185:10500 1 0Q5] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:53:40.550 [172.71.214.185:10500 1 0Q5] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:53:40.550 [172.71.214.185:10500 1 0Q5] [Core] Footer check passed
+02/25/23 14:53:40.550 [172.71.214.185:10500 1 0Q5] Response headers --- array (
+  0 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  1 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  2 => 'Content-Type: text/html; charset=UTF-8',
+  3 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  4 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:53:40.550 [172.71.214.185:10500 1 0Q5] End response
+--------------------------------------------------------------------------------
+
+02/25/23 14:53:42.502 [172.71.214.185:10500 1 PLh] 💓 ------GET HTTP/1.1 (HTTPS)  /ajax/get_json.php
+02/25/23 14:53:42.502 [172.71.214.185:10500 1 PLh] Query String: action=article&action_type=featured&type=article&catId=25&show=10
+02/25/23 14:53:42.502 [172.71.214.185:10500 1 PLh] HTTP_REFERER: https://test.ffilm.online/?LSCWP_CTRL=before_optm
+02/25/23 14:53:42.502 [172.71.214.185:10500 1 PLh] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:53:42.504 [172.71.214.185:10488 1 fOE] 💓 ------POST HTTP/1.1 (HTTPS)  /ajax/cart.php
+02/25/23 14:53:42.504 [172.71.214.185:10488 1 fOE] Query String: 
+02/25/23 14:53:42.504 [172.71.214.185:10488 1 fOE] HTTP_REFERER: https://test.ffilm.online/?LSCWP_CTRL=before_optm
+02/25/23 14:53:42.504 [172.71.214.185:10488 1 fOE] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:53:42.579 [172.71.214.185:10488 1 fOE] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:53:42.579 [172.71.214.185:10488 1 fOE] [Router] get_role: administrator
+02/25/23 14:53:42.579 [172.71.214.185:10500 1 PLh] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:53:42.579 [172.71.214.185:10500 1 PLh] [Router] get_role: administrator
+02/25/23 14:53:42.579 [172.71.214.185:10488 1 fOE] 📺  Suppress default WP lazyload
+02/25/23 14:53:42.579 [172.71.214.185:10500 1 PLh] 📺  Suppress default WP lazyload
+02/25/23 14:53:42.613 [172.71.214.185:10500 1 PLh] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:53:42.614 [172.71.214.185:10500 1 PLh] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:53:42.614 [172.71.214.185:10500 1 PLh] Response headers --- array (
+  0 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  1 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  2 => 'Content-Type: text/html; charset=UTF-8',
+  3 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  4 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:53:42.614 [172.71.214.185:10500 1 PLh] End response
+--------------------------------------------------------------------------------
+
+02/25/23 14:53:42.614 [172.71.214.185:10488 1 fOE] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:53:42.614 [172.71.214.185:10488 1 fOE] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:53:42.614 [172.71.214.185:10488 1 fOE] Response headers --- array (
+  0 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  1 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  2 => 'Content-Type: text/html; charset=UTF-8',
+  3 => 'Link: <https://test.ffilm.online/wp-json/>; rel="https://api.w.org/"',
+  4 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:53:42.614 [172.71.214.185:10488 1 fOE] End response
+--------------------------------------------------------------------------------
+
+
+
+
+
+02/25/23 14:53:53.423 [172.71.214.184:39390 1 tiU] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin-ajax.php
+02/25/23 14:53:53.423 [172.71.214.184:39390 1 tiU] Query String: 
+02/25/23 14:53:53.423 [172.71.214.184:39390 1 tiU] HTTP_REFERER: https://test.ffilm.online/wp-admin/admin.php?page=litespeed-toolbox
+02/25/23 14:53:53.423 [172.71.214.184:39390 1 tiU] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:53:53.423 [172.71.214.184:39390 1 tiU] LSCACHE_VARY_COOKIE: ,wp-postpass_7fbb35dd8575fffdd2f2f9ea7d31c0ae
+02/25/23 14:53:53.523 [172.71.214.184:39390 1 tiU] 👮  No cache due to Admin page
+02/25/23 14:53:53.555 [172.71.214.184:39390 1 tiU] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:53:53.636 [172.71.214.184:39390 1 tiU] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:53:53.638 [172.71.214.184:39390 1 tiU] [Router] get_role: administrator
+02/25/23 14:53:53.638 [172.71.214.184:39390 1 tiU] [Ctrl] ❌ forced no cache [reason] DONOTCACHEPAGE const
+02/25/23 14:53:53.638 [172.71.214.184:39390 1 tiU] [Core] Silence Comment due to REST/AJAX
+02/25/23 14:53:53.638 [172.71.214.184:39390 1 tiU] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:53:53.638 [172.71.214.184:39390 1 tiU] Response headers --- array (
+  0 => 'Access-Control-Allow-Origin: https://test.ffilm.online',
+  1 => 'Access-Control-Allow-Credentials: true',
+  2 => 'X-Robots-Tag: noindex',
+  3 => 'X-Content-Type-Options: nosniff',
+  4 => 'Referrer-Policy: strict-origin-when-cross-origin',
+  5 => 'X-Frame-Options: SAMEORIGIN',
+  6 => 'Content-Type: application/json; charset=UTF-8',
+  7 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  8 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  9 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:53:53.638 [172.71.214.184:39390 1 tiU] End response
+--------------------------------------------------------------------------------
+
+
+
+
+
+02/25/23 14:53:58.008 [172.71.214.184:39390 1 UiH] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-admin/admin.php
+02/25/23 14:53:58.008 [172.71.214.184:39390 1 UiH] Query String: page=litespeed-toolbox
+02/25/23 14:53:58.008 [172.71.214.184:39390 1 UiH] HTTP_REFERER: https://test.ffilm.online/wp-admin/admin.php?page=litespeed-toolbox
+02/25/23 14:53:58.008 [172.71.214.184:39390 1 UiH] Cookie _lscache_vary: admin_bar:1;logged-in:1;role:99
+02/25/23 14:53:58.008 [172.71.214.184:39390 1 UiH] LSCACHE_VARY_COOKIE: ,wp-postpass_7fbb35dd8575fffdd2f2f9ea7d31c0ae
+02/25/23 14:53:58.112 [172.71.214.184:39390 1 UiH] 👮  No cache due to Admin page
+02/25/23 14:53:58.143 [172.71.214.184:39390 1 UiH] [Ctrl] X Cache_control -> no Cache ( logged in user )
+02/25/23 14:53:58.144 [172.71.214.184:39390 1 UiH] [Router] LSCWP_CTRL: save-settings
+02/25/23 14:53:58.144 [172.71.214.184:39390 1 UiH] [Router] LSCWP_CTRL verified: 'save-settings'
+02/25/23 14:53:58.287 [172.71.214.184:39390 1 UiH] [Settings] saving
+02/25/23 14:53:58.290 [172.71.214.184:39390 1 UiH] 🗂️ [Activation] update_files
+02/25/23 14:53:58.382 [172.71.214.184:39390 1 UiH] [Ctrl] not cacheable before ctrl finalize
+02/25/23 14:53:58.382 [172.71.214.184:39390 1 UiH] [Router] get_role: administrator
+02/25/23 14:53:58.383 [172.71.214.184:39390 1 UiH] [Ctrl] ❌ forced no cache [reason] DONOTCACHEPAGE const
+02/25/23 14:53:58.383 [172.71.214.184:39390 1 UiH] 💰 X-LiteSpeed-Cache-Control: no-cache
+02/25/23 14:53:58.383 [172.71.214.184:39390 1 UiH] Response headers --- array (
+  0 => 'Expires: Wed, 11 Jan 1984 05:00:00 GMT',
+  1 => 'Cache-Control: no-cache, must-revalidate, max-age=0',
+  2 => 'Referrer-Policy: strict-origin-when-cross-origin',
+  3 => 'X-Frame-Options: SAMEORIGIN',
+  4 => 'Content-Type: text/html; charset=UTF-8',
+  5 => 'X-LiteSpeed-Cache-Control: no-cache',
+)
+02/25/23 14:53:58.383 [172.71.214.184:39390 1 UiH] End response
+--------------------------------------------------------------------------------
+

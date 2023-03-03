@@ -1,0 +1,34 @@
+
+.depicter-revert.depicter-11 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-11-element-14:not(.depicter-hover-off):hover {
+	background-color:transparent;
+}
+.depicter-11-element-14 .depicter-arrow-icon{
+	fill:#AAAAAA;
+}
+.depicter-revert .depicter-11-element-15:not(.depicter-hover-off):hover {
+	background-color:transparent;
+}
+.depicter-11-element-15 .depicter-arrow-icon{
+	fill:#AAAAAA;
+}
+.depicter-11-element-43 .depicter-bullet-item{
+	background-color:rgba(255, 255, 255, 0.3);
+	border-radius:3px 3px 3px 3px ;
+	margin-right:5px;
+	width:15px;
+	height:6px;
+}
+.depicter-11-element-43 .depicter-bullet-item.depicter-bullet-active{
+	background-color:#ffffff;
+}
+.depicter-revert .depicter-11-section-1 .depicter-section-background{
+	background-color:#222222;
+}
+.depicter-revert .depicter-11-section-46 .depicter-section-background{
+	background-color:#222222;
+}
+

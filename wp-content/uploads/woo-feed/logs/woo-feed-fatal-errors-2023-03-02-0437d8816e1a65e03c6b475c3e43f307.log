@@ -1,0 +1,66 @@
+2023-03-02T05:24:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_image() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_mobile/product/single.php:117
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(785): require()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(718): load_template()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/general-template.php(204): locate_template()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/single-product.php(3): get_template_part()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#6 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#7 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_mobile/product/single.php on line 117
+
+2023-03-02T05:28:34+00:00 CRITICAL syntax error, unexpected 'hướng' (T_STRING) in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/functions.php on line 82
+
+2023-03-02T05:28:34+00:00 CRITICAL syntax error, unexpected 'hướng' (T_STRING) in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/functions.php on line 82
+
+2023-03-02T08:48:36+00:00 CRITICAL Uncaught Error: Call to undefined function get_image() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/single.php:135
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/single.php on line 135
+
+2023-03-02T08:55:59+00:00 CRITICAL Uncaught Error: Call to undefined function wp_get_attachment_large_url() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/functions.php:321
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/single.php(129): get_large_image_link_from_post_id()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#3 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#4 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/functions.php on line 321
+
+2023-03-02T08:56:19+00:00 CRITICAL Uncaught Error: Call to undefined function wp_get_attachment_medium_url() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/functions.php:321
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/single.php(129): get_large_image_link_from_post_id()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#3 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#4 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/functions.php on line 321
+
+2023-03-02T08:58:51+00:00 CRITICAL Uncaught Error: Call to undefined function get_large_image_link_from_post_id() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/single.php:130
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/single.php on line 130
+
+2023-03-02T08:59:02+00:00 CRITICAL Uncaught Error: Call to undefined function get_large_image_link_from_post_id() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/single.php:130
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/single.php on line 130
+
+2023-03-02T09:04:51+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_image_url() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_mobile/product/single.php:116
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_mobile/product/single.php on line 116
+

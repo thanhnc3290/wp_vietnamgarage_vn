@@ -1,0 +1,9 @@
+.header-logo-site{
+    object-fit: contain;
+    width: 100rem;
+    height: 4rem;
+}
+
+.name-category{
+    font-size:1.25rem;
+}

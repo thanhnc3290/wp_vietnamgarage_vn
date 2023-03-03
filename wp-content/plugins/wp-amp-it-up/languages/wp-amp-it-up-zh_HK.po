@@ -1,0 +1,32 @@
+# Translation of Plugins - WP AMP it up! - Stable (latest release) in Chinese (Hong Kong)
+# This file is distributed under the same license as the Plugins - WP AMP it up! - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-31 05:50:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_HK\n"
+"Project-Id-Version: Plugins - WP AMP it up! - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://www.amp-cloud.de"
+msgstr "https://www.amp-cloud.de"
+
+#. Author of the plugin/theme
+msgid "amp-cloud.de | Björn Staven"
+msgstr "amp-cloud.de | Björn Staven"
+
+#. Description of the plugin/theme
+msgid "AMP for WordPress automatically add Accelerated Mobile Pages (Google AMP Project) functionality on your Site! Just install, activate it and it´s done! This official AMP WordPress plugin from amp-cloud.de enable automated AMP support to your website for free! It creates without any prior knowledge and completely free Google-compliant AMPHTML versions of your webpages."
+msgstr "AMP for WordPress會在您的網站上自動添加Accelerated Mobile Pages（Google AMP Project）功能！只需安裝，激活它，它就完成了！這款來自amp-cloud.de的官方AMP WordPress插件可以為您的網站免費提供自動AMP支持！它無需任何先前的知識和完全免費的Google兼容AMPHTML版本的網頁。"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.amp-cloud.de/google-amp-plugins/wordpress/amp-fuer-wordpress.php"
+msgstr "https://www.amp-cloud.de/google-amp-plugins/wordpress/amp-fuer-wordpress.php"
+
+#. Plugin Name of the plugin/theme
+msgid "AMP it up!"
+msgstr "AMP it up!"

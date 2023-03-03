@@ -1,0 +1,32 @@
+# Translation of Plugins - AMP it up! - Stable (latest release) in Gujarati
+# This file is distributed under the same license as the Plugins - AMP it up! - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: gu\n"
+"Project-Id-Version: Plugins - AMP it up! - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://www.amp-cloud.de"
+msgstr "https://www.amp-cloud.de"
+
+#. Author of the plugin/theme
+msgid "amp-cloud.de | Björn Staven"
+msgstr "amp-cloud.de | Björn Staven"
+
+#. Description of the plugin/theme
+msgid "AMP for WordPress automatically add Accelerated Mobile Pages (Google AMP Project) functionality on your Site! Just install, activate it and it´s done! This official AMP WordPress plugin from amp-cloud.de enable automated AMP support to your website for free! It creates without any prior knowledge and completely free Google-compliant AMPHTML versions of your webpages."
+msgstr "વર્ડપ્રેસ માટે AMP આપોઆપ તમારી સાઇટ પર ત્વરિત મોબાઇલ પાના (Google AMP પ્રોજેક્ટ) કાર્યક્ષમતા ઉમેરો! જસ્ટ સ્થાપિત તેને સક્રિય અને it's કર્યું! amp-cloud.de આ સત્તાવાર AMP વર્ડપ્રેસ પ્લગઇન મફત માટે તમારી વેબસાઇટ પર AMP આધાર ઓટોમેટેડ સક્ષમ કરો! તે કોઇ પણ પહેલાં જ્ઞાન વિના સર્જન કરે છે અને સંપૂર્ણપણે તમારા વેબપૃષ્ઠો ગૂગલ સુસંગત AMPHTML આવૃત્તિઓ મુક્ત."
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.amp-cloud.de/google-amp-plugins/wordpress/amp-fuer-wordpress.php"
+msgstr "https://www.amp-cloud.de/google-amp-plugins/wordpress/amp-fuer-wordpress.php"
+
+#. Plugin Name of the plugin/theme
+msgid AMP it up!"
+msgstr AMP it up!"

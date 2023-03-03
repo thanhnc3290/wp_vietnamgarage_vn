@@ -1,0 +1,250 @@
+2023-02-25T08:54:22+00:00 CRITICAL Uncaught Error: Call to a member function register_routes() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/webappick-product-feed-for-woocommerce/V5/API/RestController.php:134
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/class-wp-hook.php(308): CTXFeed\V5\API\RestController->register_api()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/rest-api.php(577): do_action()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/rest-api.php(403): rest_get_server()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/class-wp-hook.php(308): rest_api_loaded()
+#6 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#7 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/pl in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/webappick-product-feed-for-woocommerce/V5/API/RestController.php on line 134
+
+2023-02-25T10:07:36+00:00 CRITICAL syntax error, unexpected '=' in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 38
+
+2023-02-25T10:07:44+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:159
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 159
+
+2023-02-25T10:45:05+00:00 CRITICAL Uncaught Error: Call to undefined method WooCommerce::get_attribute_taxonomy_names() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:106
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 106
+
+2023-02-25T10:46:43+00:00 CRITICAL Uncaught Error: Call to undefined method WooCommerce::get_attribute_taxonomy_names() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:106
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 106
+
+2023-02-25T10:47:01+00:00 CRITICAL Uncaught Error: Call to undefined method WooCommerce::get_attribute_taxonomy_names() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:302
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 302
+
+2023-02-25T10:47:50+00:00 CRITICAL Uncaught Error: Call to undefined method WP::get_variation_attributes() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:301
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 301
+
+2023-02-25T10:56:09+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:301
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 301
+
+2023-02-25T10:59:13+00:00 CRITICAL Uncaught Error: Call to undefined function get_attributes() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:300
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 300
+
+2023-02-25T11:11:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:72
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 72
+
+2023-02-25T11:12:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:72
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 72
+
+2023-02-25T11:13:34+00:00 CRITICAL Uncaught Error: Call to a member function has_weight() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3490
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php(73): wc_display_product_attributes()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#3 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#4 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3490
+
+2023-02-25T11:13:36+00:00 CRITICAL Uncaught Error: Call to a member function has_weight() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3490
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php(73): wc_display_product_attributes()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#3 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#4 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3490
+
+2023-02-25T11:14:09+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:73
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 73
+
+2023-02-25T11:15:02+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on null in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:76
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 76
+
+2023-02-25T11:16:12+00:00 CRITICAL Uncaught Error: Call to undefined function prin_r() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:81
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 81
+
+2023-02-25T11:20:01+00:00 CRITICAL Uncaught Error: Call to undefined function get_data() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:73
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 73
+
+2023-02-25T11:21:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_data() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:73
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 73
+
+2023-02-25T14:01:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_cat_name(), 0 passed in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/category.php on line 3 and exactly 1 expected in /usr/local/lsws/test.ffilm.online/html/public/wp-includes/category.php:223
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/category.php(3): get_cat_name()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(785): require('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(718): load_template()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/general-template.php(204): locate_template()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/category.php(5): get_template_part()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#6 /usr/local/lsws/test.f in /usr/local/lsws/test.ffilm.online/html/public/wp-includes/category.php on line 223
+
+2023-02-25T14:03:22+00:00 CRITICAL Uncaught Error: Call to undefined function get_category_id() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/category.php:2
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(785): require()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(718): load_template()
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/general-template.php(204): locate_template()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/category.php(5): get_template_part()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include('/usr/local/lsws...')
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#6 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#7 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/category.php on line 2
+
+2023-02-25T14:16:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function vietnam_garage_vn_get_news_catalog_list(), 0 passed in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/category.php on line 4 and exactly 1 expected in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/functions.php:92
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/category.php(4): vietnam_garage_vn_get_news_catalog_list()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(785): require('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(718): load_template()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/general-template.php(204): locate_template()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/category.php(5): get_template_part()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/functions.php on line 92
+
+2023-02-25T14:17:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function vietnam_garage_vn_get_news_catalog_list(), 0 passed in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/category.php on line 4 and exactly 1 expected in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/functions.php:92
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/category.php(4): vietnam_garage_vn_get_news_catalog_list()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(785): require('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(718): load_template()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/general-template.php(204): locate_template()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/category.php(5): get_template_part()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/functions.php on line 92
+
+2023-02-25T14:17:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function vietnam_garage_vn_get_news_catalog_list(), 0 passed in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/category.php on line 4 and exactly 1 expected in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/functions.php:92
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/news/category.php(4): vietnam_garage_vn_get_news_catalog_list()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(785): require('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template.php(718): load_template()
+#3 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/general-template.php(204): locate_template()
+#4 /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/category.php(5): get_template_part()
+#5 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/functions.php on line 92
+
+2023-02-25T15:21:18+00:00 CRITICAL Uncaught Error: Call to undefined function get_attributes() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:3
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 3
+
+2023-02-25T15:21:24+00:00 CRITICAL Uncaught Error: Call to undefined function get_attribute() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:3
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 3
+
+2023-02-25T15:21:30+00:00 CRITICAL Uncaught Error: Call to undefined function get_the_attribute() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php:3
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/page.php on line 3
+
+2023-02-25T16:10:08+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/attribute.php on line 6
+
+2023-02-25T16:24:34+00:00 CRITICAL Uncaught Error: Call to undefined function get_attribute() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/attribute.php:8
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/attribute.php on line 8
+
+2023-02-25T16:30:51+00:00 CRITICAL Uncaught Error: Call to undefined method WooCommerce::get_attribute_taxonomy_names() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/attribute.php:9
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/attribute.php on line 9
+
+2023-02-25T16:31:28+00:00 CRITICAL Uncaught Error: Call to undefined function list_attributes() in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/attribute.php:7
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/attribute.php on line 7
+
+2023-02-25T16:37:40+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/attribute.php:11
+Stack trace:
+#0 /usr/local/lsws/test.ffilm.online/html/public/wp-includes/template-loader.php(106): include()
+#1 /usr/local/lsws/test.ffilm.online/html/public/wp-blog-header.php(19): require_once('/usr/local/lsws...')
+#2 /usr/local/lsws/test.ffilm.online/html/public/index.php(17): require('/usr/local/lsws...')
+#3 {main}
+  thrown in /usr/local/lsws/test.ffilm.online/html/public/wp-content/themes/thienphuauto/layout_desktop/product/attribute.php on line 11
+
